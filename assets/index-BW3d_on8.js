@@ -10762,7 +10762,7 @@ const St = {
         tier6: "Tier 6",
         tier7: "Tier 7"
     },
-    Nt = "/icons",
+    Nt = "./icons",
     Ct = {
         empty: {
             id: "empty",
